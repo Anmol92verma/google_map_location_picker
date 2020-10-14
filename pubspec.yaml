@@ -17,7 +17,7 @@ dependencies:
   intl_translation: '>=0.17.9 <=0.17.10'
 
   google_maps_flutter: ^1.0.2
-  geolocator: ^5.3.1
+  geolocator: ^6.0.0+4
   android_intent: ^0.3.7+2
   provider: ^4.1.2
   http: ^0.12.1
